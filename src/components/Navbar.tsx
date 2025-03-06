@@ -60,7 +60,7 @@ const Navbar = ({ userData }: NavbarProps) => {
                   İletişim Başkanlığı
                 </span>
                 <span className="text-xs text-gray-600">
-                  Dezanformasyon Bülteni Asistanı
+                  Dezenformasyon Bülteni Asistanı
                 </span>
               </div>
             </div>
